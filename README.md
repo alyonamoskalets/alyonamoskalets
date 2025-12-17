@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! :wave:
+## Here is Alyona.
 
-<!--
-**alyonamoskalets/alyonamoskalets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>Location: Riga, Latvia
+<br>Contact: alyonamoskalets@proton.me
 
-Here are some ideas to get you started:
+<br>I could describe myself as an ITOps/SysOps engineer, but my role actually covers a very wide range of IT responsibilities.
+<br>My big passion is to search for the weak points in IT infrastructure deployment and IT support processes and develop automation solutions for them in order to increase an IT team's efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>I develop automations mostly on:
+* **Linux**: Bash, Ansible, Python;
+* **Windows**: Batch/CMD, Powershell, Python.
+
+<br>I like deep diving into:
+* **Docker**: dockerizing applications;
+* **Zabbix**: developing templates;
+* **Mikrotik** (I hold three certifications).
+
+<br>I have more than 10 years of experience in IT field as computer technician and system administrator altogether, starting from providing all 3 levels of IT support and ending with developing landing webpages upon request and programming pipelines for automations using IaC approach. My strongest skills are analytical thinking and troubleshooting.
